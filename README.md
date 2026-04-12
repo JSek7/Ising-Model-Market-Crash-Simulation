@@ -98,7 +98,7 @@ ising-market-model/
 └── README.md
 
 ---
-
+```
 
 ### Installation
 
