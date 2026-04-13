@@ -1,5 +1,5 @@
 
-### An Ising Model Approach to Financial Markets -  Market Crashes as Phase Transitions
+### An Ising Model Approach to Financial Markets -  Market Crashes as Phase Transitions (Warwick Mathematical Finance Magazine Submission)
 
 
 ## Overview
@@ -170,6 +170,7 @@ plotter.plot_acf(T=2.269, alpha=2.0)
 
 ## Future Work
 
+- [ ] Research Paper to be uploaded 
 - [ ] Time-varying temperature (market regimes)
 - [ ] Heterogeneous agent models
 - [ ] Calibration to real market data (e.g. S&P 500)
